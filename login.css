@@ -1,0 +1,30 @@
+body{
+    background-image:url(https://i0.wp.com/pavbca.com/walldb/original/c/7/9/688242.jpg);
+    background-size: 100%;
+    color:rgba(rgb(87, 81, 81)(87, 81, 81)(87, 81, 81)(99, 93, 93)(99, 93, 93), green, blue, alpha);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+div{
+
+    color:yellow;
+}
+
+
+form {
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    top: 20%;
+    right: 50%;
+    text-transform: uppercase; 
+}
+.flex-item{
+    margin: 15px;
+}
+input{
+    background-color: burlywood;
+}
+.item{
+    margin: 15px;
+    
+}

@@ -1,0 +1,24 @@
+body{
+  background-color: aquamarine;
+  font-family: sans-serif;
+  font-style: regular;
+  font-size: 12px;
+  text-align: center;
+}
+h1{
+  color:brown;
+}
+
+a{
+  text-decoration: none;
+  border-spacing: inherit;
+  padding: 5%;
+}
+a:hover{
+  background-color: aquamarine;
+  padding: 2%;
+}
+div{
+  background-color:white;
+  padding: 1.5%;
+}
