@@ -1,19 +1,25 @@
 body{
-    background-color:white;
-    background-size: cover;
-    color: green;
+    background-image: url(https://phantom-marca.unidadeditorial.es/927e619e34b67b9e7326c9266914e6f0/crop/68x0/1311x700/resize/1320/f/jpg/assets/multimedia/imagenes/2021/08/20/16294695683527.jpg);
+    background-size:100% 100%;
+    color:red;
     margin: 10rem;
     margin-top: 5rem;
-    text-align: center;
+    text-align:center;
+    background-attachment: fixed;
+    text-shadow: black;
+    /*font-weight: bold;*/
 }
 
 h1,h2,h3,h4,h5{
     font-family: 'Courier New', Courier, monospace;
+    text-align:left;
+   /*font-weight: bold;*/
 }
 h1{
     font-size: 500%;
     margin: 20px;
-    text-align: center;
+    text-align:left;
+    font-weight: bold;
 }
 a{
     text-align: center;
@@ -22,6 +28,7 @@ a{
     display: inline-block;
     /* background: rgba(red, green, blue, alpha); */
     border-radius: 2rem;
+    /*font-weight: bold;*/
 }
 ol>il>a{
     padding: 5px 20px;
@@ -36,12 +43,14 @@ border-radius: 3rem;
 padding: 2rem;
 display: flex;
 justify-content: space-evenly;
+/*text-decoration: bold;*/
 }
 
 .actsboard{
   display: flex;
   align-content: center;
   justify-content: space-evenly;
+ /*font-weight: bold;*/
 }
 table, th, td{
     border: 2.5px solid black;
@@ -50,14 +59,32 @@ table, th, td{
 }
 a{
     color: red;
-}
-.item{
-    background-color: burlywood;
+   /*font-weight: bold;*/
 }
 .info{
-    color: skyblue;
+    color:white;
 }
 .people{
-    background-color: brown;
+    background-color:brown;
+    background: opaque;
     size: 75px;
+    color: white;
+}
+.left{
+    color: white;
+}
+.right{
+    color: white;
+}
+.marvel{
+    color: white;
+} 
+.othersthink{
+    color: white;
+}
+.biography{
+    color: white;
+}
+li{
+    color: white;
 }
