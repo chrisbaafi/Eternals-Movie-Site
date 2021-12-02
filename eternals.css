@@ -1,11 +1,10 @@
 body{
      background-image: url(https://pbs.twimg.com/media/EvLV-IkXAAU2IGt?format=jpg&name=large);
     background-size: cover;
-    color: greenyellow;
+    color: green;
     margin: 10rem;
     margin-top: 5rem;
     text-align: center;
-    background-attachment: fixed;
 }
 
 h1,h2,h3,h4,h5{
@@ -59,6 +58,8 @@ a{
     color: skyblue;
 }
 .people{
-    background-color: blueviolet;
+    background-color: brown;
     size: 75px;
 }
+
+@media screen(min-width:720px)
