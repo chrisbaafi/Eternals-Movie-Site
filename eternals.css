@@ -47,10 +47,11 @@ justify-content: space-evenly;
 /*text-decoration: bold;*/
 }
 
-.actsboard{
-  display: flex;
-  align-content: center;
-  justify-content: space-evenly;
+.dashboard{
+    margin:auto;
+/*   display: flex; */
+/*   align-content: center; */
+/*   justify-content: space-evenly; */
  /*font-weight: bold;*/
 }
 table, th, td{
