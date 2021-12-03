@@ -5,7 +5,7 @@ body{
     margin: 10rem;
     margin-top: 5rem;
     text-align:center;
-    background-attachment: fixed;
+/*     background-attachment: fixed; */
     text-shadow: black;
     /*font-weight: bold;*/
 }
@@ -17,13 +17,13 @@ h1,h2,h3,h4,h5{
 }
 h1{
     font-size: 500%;
-    margin: 20px;
+    margin: 10%;
     text-align:left;
     font-weight: bold;
 }
 a{
     text-align: center;
-    padding: 14px 25px;
+    padding: 2%;
     text-decoration: none;
     display: inline-block;
     /* background: rgba(red, green, blue, alpha); */
