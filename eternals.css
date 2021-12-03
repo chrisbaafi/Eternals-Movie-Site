@@ -19,7 +19,7 @@ h1,h2,h3,h4,h5{
 h1{
     font-size: 500%;
     margin: auto;
-/*     text-align:left; */
+    text-align:center;
     font-weight: bold;
 }
 a{
