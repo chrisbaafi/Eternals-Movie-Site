@@ -18,8 +18,8 @@ h1,h2,h3,h4,h5{
 }
 h1{
     font-size: 500%;
-    margin: 10%;
-    text-align:left;
+    margin: auto;
+/*     text-align:left; */
     font-weight: bold;
 }
 a{
@@ -48,7 +48,7 @@ justify-content: space-evenly;
 }
 
 .dashboard{
-/*     display:inline-block; */
+    display:inline-block;
     margin:auto;
     color:white;
 /*     display: flex;
