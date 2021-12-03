@@ -93,7 +93,10 @@ li{
 
 
 @media(max-width: 720px) {
-
+    body{
+        background-size: 720px 100%;
+    }
+    
 
 }
 
