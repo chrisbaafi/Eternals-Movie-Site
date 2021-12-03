@@ -50,6 +50,9 @@ justify-content: space-evenly;
 .dashboard{
     margin:auto;
     color:white;
+    display: flex;
+    flex-direction:column;
+    align-content:center;
 }
 .actsboard {
   display: flex;
