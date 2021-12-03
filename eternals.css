@@ -51,10 +51,7 @@ justify-content: space-evenly;
     display:inline-block;
     margin:auto;
     color:white;
-/*     display: flex;
-    flex-direction:column;
-    align-content:center;
-    justify-content:center; */
+    text-align:center;
 }
 .actsboard {
   display: flex;
