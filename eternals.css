@@ -1,6 +1,6 @@
 body{
     background:url(https://phantom-marca.unidadeditorial.es/927e619e34b67b9e7326c9266914e6f0/crop/68x0/1311x700/resize/1320/f/jpg/assets/multimedia/imagenes/2021/08/20/16294695683527.jpg) no-repeat center center;
-    background-size: 100% 100%;
+    background-size: 100vw 100%;
     color:red;
 /*     margin: 10rem; */
 /*     margin-top: 5rem; */
@@ -94,7 +94,7 @@ li{
 
 @media(max-width: 720px) {
     body{
-        background-size: 720px 100%;
+        background-size: 720px 100vh;
         background-position:center center;
         width:90%;
     }
